@@ -2,22 +2,22 @@
     "info": [
         {
             "text": "Total Items",
-            "number": "5555",
+            "number": "1000",
             "unit": ""
         }, 
         {
             "text": "Total Owners",
-            "number": "896",
+            "number": "2",
             "unit": ""
         }, 
         {
-            "text": "Floor Price (ETH)",
-            "number": "0.55",
+            "text": "Floor Price (CRAB)",
+            "number": "???",
             "unit": ""
         }, 
         {
-            "text": "Volume Traded (ETH)",
-            "number": "25.5",
+            "text": "Volume Traded (CRAB)",
+            "number": "0",
             "unit": "k"
         }
     ]

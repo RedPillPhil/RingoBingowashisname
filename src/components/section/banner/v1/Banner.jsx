@@ -34,7 +34,7 @@ const Banner = () => {
                 <span className="count">
                   <Counter end={remaining} duration={remaining} />
                 </span>{" "}
-                / 9999 Minted
+                / 1000 Minted
               </h3>
               <div className="banner_buttons">
                 {
@@ -49,17 +49,15 @@ const Banner = () => {
                   </Button>
                 }
                 
-                <Button lg variant="outline">
-                  Wishlist now
-                </Button>
+
               </div>
               <div className="coin-info">
-                <span>Max 2 NFTs per wallet . Price 0.09 ETH + gas</span>
+                <span>Max 1 NFTs per mint transaction. Price<span className="highlighted"> 20,000 CRAB</span></span>
                 <span>
-                  MINT IS LIVE{" "}
-                  <span className="highlighted">UNTIL 25 APR 04:00H</span>
+                  MINT IS{" "}
+                  <span className="highlighted">LIVE</span>
                 </span>
-                <span>Presale : SOLDOUT</span>
+                
               </div>
             </div>
           </div>
