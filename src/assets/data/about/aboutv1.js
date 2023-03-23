@@ -8,18 +8,18 @@ import aboutCardIcon3 from "../../images/icon/aboutus_card_icon3.svg"
     aboutInfo: [
         {
             icon: aboutCardIcon1,
-            title: "Gamming NFTs",
-            text: "Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure."
+            title: "Game dApps",
+            text: "There will be gaming dApps built around Ringo Bingo's"
         },
         {
             icon: aboutCardIcon2,
-            title: "Play to Earn",
-            text: 'Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original.'
+            title: "Staking",
+            text: 'Ringo Bingo NFTs will be able to be used to stake to earn rewards',
         },
         {
             icon: aboutCardIcon3,
-            title: "Metaverse Ready",
-            text: 'Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure.'
+            title: "NFT Exchange",
+            text: 'Latin professor at Hampden-Sydney College in Virginia, looked up'
         }
     ]
 }

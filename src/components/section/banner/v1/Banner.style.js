@@ -57,6 +57,7 @@ const BannerV1Wrapper = styled.section`
       margin-top: 58px;
     }
 
+
     .coin-info {
       display: flex;
       flex-direction: column;
@@ -130,6 +131,12 @@ const BannerV1Wrapper = styled.section`
           height: 100%;
         }
       }
+
+      .mobile-img {
+  width: 150% !important;
+  height: auto !important;
+}
+
 
       .bithu_v1_baner_right_img {
         position: relative;
