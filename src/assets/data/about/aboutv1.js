@@ -9,17 +9,17 @@ import aboutCardIcon3 from "../../images/icon/aboutus_card_icon3.svg"
         {
             icon: aboutCardIcon1,
             title: "Game dApps",
-            text: "There will be gaming dApps built around Ringo Bingo's"
+            text: "We plan to develop exciting gaming decentralized applications (dApps) that will be centered around Ringo Bingo's. These dApps will provide an interactive and engaging gaming experience to the users, making it a fun and enjoyable activity."
         },
         {
             icon: aboutCardIcon2,
             title: "Staking",
-            text: 'Ringo Bingo NFTs will be able to be used to stake to earn rewards',
+            text: 'Ringo Bingo NFTs will be utilized as a valuable asset for staking, which will enable users to earn rewards. By staking their NFTs, users can contribute to the networks security and earn incentives for their participation, which can enhance the overall value of the NFTs.',
         },
         {
             icon: aboutCardIcon3,
             title: "NFT Exchange",
-            text: 'Latin professor at Hampden-Sydney College in Virginia, looked up'
+            text: 'We are developing an NFT exchange platform on Crab and Darwinia EVM, where users can easily buy, sell and trade their NFTs with others in a secure and reliable manner. This exchange will provide a platform for users to trade their NFTs for other valuable tokens or currencies, thereby increasing the liquidity of the NFT market. The platform will be user-friendly, transparent and cost-effective, making it easy for everyone to participate in the NFT economy'
         }
     ]
 }

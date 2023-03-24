@@ -18,6 +18,10 @@ function isMobileDevice() {
   return (typeof window.orientation !== "undefined") || (navigator.userAgent.indexOf('IEMobile') !== -1);
 }
 
+function openTelegramGroup() {
+  window.open('https://t.me/your_telegram_group', '_blank');
+}
+
   useEffect(() =>{
     const calculateRemainingItems = async () => {
       let totaltMintedItems = await totalMintCount();
@@ -77,6 +81,12 @@ function isMobileDevice() {
                 Mint now
               </Button>
             }
+
+
+    <Button lg variant="outline" onClick={openTelegramGroup}>
+      Whitelist now
+    </Button>
+
           </div>
           <div className="coin-info">
             <span>Max 1 NFTs per mint transaction. Price<span className="highlighted"> 20,000 CRAB</span></span>

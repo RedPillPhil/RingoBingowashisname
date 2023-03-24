@@ -1,5 +1,5 @@
 import { Helmet } from "react-helmet";
-import favIcon from "../../assets/images/fav_icon.ico"
+
 const Layout = ({ children }) => {
   return (
     <>
@@ -11,7 +11,7 @@ const Layout = ({ children }) => {
           Ringo Bingo
         </title>
         <meta name="description" content="" />
-        <link rel="shortcut icon" type="image/x-icon" href={favIcon} />
+        <link rel="shortcut icon" type="image/x-icon" href="https://monumental-mandazi-c926c0.netlify.app/favicon.ico" />
         {/* responsive tag */}
         <meta httpEquiv="x-ua-compatible" content="ie=edge" /> 
         {/* Bootstrap Latest compiled and minified CSS  */}

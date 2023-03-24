@@ -14,6 +14,10 @@ import particleShape7 from "../../../../assets/images/icon/star_7.svg";
 
 import CTAStyleWrapper from "./Cta.style";
 
+function openTelegramGroup() {
+  window.open('https://t.me/your_telegram_group', '_blank');
+}
+
 const CTA = () => {
   const particleShapes = [
     particleShape6,
@@ -29,14 +33,14 @@ const CTA = () => {
       <div className="container">
         <SectionTitle
           className="bithu_title_section text-center"
-          title="Join Our community &amp; get Early access"
+          title="Join Our community! "
         ></SectionTitle>
         <div className="title-emo">🤙</div>
         <div className="bithu_v1_cta_content">
           <div className="join_comunity_btns">
-            <Button lg variant="mint" className="wishlist_btn">
-              Whitelist Now
-            </Button>
+     <Button lg variant="outline" onClick={openTelegramGroup}>
+      Whitelist now
+    </Button>
             <Button lg variant="blue" className="join_discord_btn">
               {" "}
               <FaDiscord /> Join Discord

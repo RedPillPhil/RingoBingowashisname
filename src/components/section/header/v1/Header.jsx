@@ -81,60 +81,7 @@ const Header = () => {
                 <li>
                   <a href="#faq">FAQ</a>
                 </li>
-                <li className="submenu">
-                    <a href="# ">Pages +</a>
-                    <div className="sub_menu_sect">
-                      <ul className="sub_menu_list">
-                        <li>
-                          <a href="/">Home One</a>
-                        </li>
-                        <li>
-                          <a href="/home-two">Home Two</a>
-                        </li>
-                        <li>
-                          <a href="/home-three">Home Three</a>
-                        </li>
-                        <li>
-                          <a href="/home-four">Home Four</a>
-                        </li>
-                        <li>
-                          <a href="/home-five">Home Five</a>
-                        </li>
-
-                        <li>
-                          <a href="/mint-1">Minting Page 1</a>
-                        </li>
-                        <li>
-                          <a href="/mint-2">Minting Page 2</a>
-                        </li>
-                        <li>
-                          <a href="/about">About Us </a>
-                        </li>
-
-                        <li>
-                          <a href="/collections">Collections</a>
-                        </li>
-                        <li>
-                          <a href="/roadmap">Roadmap</a>
-                        </li>
-                        <li>
-                          <a href="/faq"> FAQs </a>
-                        </li>
-                        <li>
-                          <a href="/coming-soon">Coming Soon</a>
-                        </li>
-                        <li>
-                          <a href="/blogs">Latest Blog</a>
-                        </li>
-                        <li>
-                          <a href="/post">Blog Details</a>
-                        </li>
-                        <li>
-                          <a href="/contact">Contact</a>
-                        </li>
-                      </ul>
-                    </div>
-                  </li>
+                
               </ul>
             </div>
             <div className="bithu_menu_btns">

@@ -12,10 +12,6 @@ export const footerLinksV1 = [
     url: "#roadmap",
   },
   {
-    title: "Team",
-    url: "#team",
-  },
-  {
     title: "FAQ",
     url: "#faq",
   },
